@@ -16,7 +16,7 @@ For example:
 ```bash
 ./push.sh --elixir=1.11.2 --erlang=23.1.2 --os-version=32
 ```
-will build and push to 2 images:
+will build and push 2 images:
  - `avvo/eralng:23.1.2-fedora-32`
  - `avvo/elixir:1.11.2-erlang-23.1.2-fedora-32`
 
